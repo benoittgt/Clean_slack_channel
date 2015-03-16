@@ -7,4 +7,4 @@ To run it do :
 * Set token and channel into the file. You can get yours [here](https://api.slack.com/web)
 * `ruby slackDelete.rb`
 
-Enjoy cleaning
+Enjoy cleaning and use it at your own risk.
